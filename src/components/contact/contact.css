@@ -1,0 +1,18 @@
+.contactFirstPart {
+  padding-top: 15px;
+  padding-bottom: 20px;
+}
+
+.contactSecondPart {
+  padding: 20px;
+}
+
+.icon-contact {
+  color: var(--bg-verde-color);
+}
+
+@media screen and (max-width: 1024px) {
+  .responsive {
+    margin-bottom: 20px;
+  }
+}

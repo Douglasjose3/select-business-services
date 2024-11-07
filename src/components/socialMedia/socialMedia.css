@@ -1,0 +1,20 @@
+.bg-socialMedias {
+  background-color: rgba(232, 232, 232, 0.325);
+}
+
+.icon-social {
+  font-size: 40px;
+  padding: 60px;
+}
+
+.sub-h3 {
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+
+@media screen and (max-width: 1023px) {
+  .icon-social {
+    font-size: 30px;
+    padding: 20px;
+  }
+}

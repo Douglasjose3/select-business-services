@@ -1,0 +1,38 @@
+.hero {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  text-align: left;
+  padding-top: 23px;
+  background-image: url("/public/heroTop.png"); /* Imagem padrão para desktop */
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+.hero-content h1 {
+  font-size: 150px;
+  line-height: 120px;
+  font-family: "DM Serif Display", serif;
+  font-weight: 900;
+  color: var(--bg-azul-color);
+  padding: 50px 0 0 30px;
+}
+
+.hero-content p {
+  line-height: 19px;
+  font-weight: bold;
+  max-width: 350px;
+  margin-top: 20px;
+  color: var(--bg-azul-color);
+  padding-left: 30px;
+}
+
+@media (max-width: 768px) {
+  .hero-content h1 {
+    font-size: 72px;
+    line-height: 60px;
+  }
+}

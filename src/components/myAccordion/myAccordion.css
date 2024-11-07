@@ -1,0 +1,11 @@
+.icones {
+    width: 3em;
+    height: auto;
+    margin-right: 1vw;
+    justify-content: end;
+    align-items: center;
+}
+
+.doubts {
+    font-weight: 700;
+}
