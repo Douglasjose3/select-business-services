@@ -51,57 +51,11 @@ function Services() {
             <div className="col-lg-4">
               <div className="main">
                 <div className="services" data-aos="fade-right">
-                  <h4>Financial Consulting</h4>
-                  <p>
-                    We provide specialized financial consulting, helping our
-                    clients understand the best options for remittance and
-                    investment. Our experienced professionals offer personalized
-                    guidance, ensuring you make informed decisions about your
-                    transactions.
-                  </p>
-                </div>
-              </div>
-            </div>
-
-            <div className="col-lg-4">
-              <div className="main">
-                <div className="services" data-aos="fade-right">
-                  <h4>Fast Money Transfers</h4>
-                  <p>
-                    With our fast transfer service, you can send funds abroad in
-                    minutes. We use advanced technology to ensure your money
-                    reaches the recipient efficiently, ideal for urgent
-                    situations where time is critical.
-                  </p>
-                </div>
-              </div>
-            </div>
-
-            <div className="col-lg-4">
-              <div className="main">
-                <div className="services" data-aos="zoom-in">
-                  <h4>Transaction Monitoring</h4>
-                  <p>
-                    We offer a real-time transaction monitoring system, allowing
-                    you to track the status of your remittances and check
-                    cashing transactions easily. With notifications at each
-                    step, you will have full control and security over your
-                    operations.
-                  </p>
-                </div>
-              </div>
-            </div>
-
-            <div className="col-lg-4">
-              <div className="main">
-                <div className="services" data-aos="fade-right">
                   <h4>Multilingual Support</h4>
                   <p>
-                    Our customer service is multilingual, ensuring clients from
-                    different nationalities can communicate easily. We offer
-                    support in multiple languages, making the experience even
-                    more accessible and comfortable, no matter where you are in
-                    the world.
+                    We offer support in Portugues, English and Spanish, making
+                    the experience even more accessible and comfortable, no
+                    matter where you are in the world.
                   </p>
                 </div>
               </div>
@@ -191,48 +145,6 @@ function Services() {
                     check-cashing services, adapting to your financial needs.
                     With a diversified portfolio, we ensure you’ll find
                     everything you need to manage your finances effectively.
-                  </p>
-                </div>
-              </div>
-            </div>
-
-            <div className="col-lg-4">
-              <div className="main">
-                <div className="services" data-aos="fade-right">
-                  <h4>Personal & Commercial Lines</h4>
-                  <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Tempora facere explicabo ea veniam doloremque soluta, itaque
-                    maxime nesciunt cumque commodi exercitationem vel eveniet
-                    illo quam vitae corrupti quia animi. Neque.
-                  </p>
-                </div>
-              </div>
-            </div>
-
-            <div className="col-lg-4">
-              <div className="main">
-                <div className="services" data-aos="zoom-in">
-                  <h4>Surety Bonds</h4>
-                  <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Tempora facere explicabo ea veniam doloremque soluta, itaque
-                    maxime nesciunt cumque commodi exercitationem vel eveniet
-                    illo quam vitae corrupti quia animi. Neque.
-                  </p>
-                </div>
-              </div>
-            </div>
-
-            <div className="col-lg-4">
-              <div className="main">
-                <div className="services" data-aos="fade-right">
-                  <h4>Excess Liability Etc.</h4>
-                  <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Tempora facere explicabo ea veniam doloremque soluta, itaque
-                    maxime nesciunt cumque commodi exercitationem vel eveniet
-                    illo quam vitae corrupti quia animi. Neque.
                   </p>
                 </div>
               </div>
