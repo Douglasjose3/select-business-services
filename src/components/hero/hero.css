@@ -13,8 +13,8 @@
 }
 
 .hero-content h1 {
-  font-size: 150px;
-  line-height: 120px;
+  font-size: 140px;
+  line-height: 110px;
   font-family: "DM Serif Display", serif;
   font-weight: 900;
   color: var(--bg-azul-color);
@@ -24,15 +24,20 @@
 .hero-content p {
   line-height: 19px;
   font-weight: bold;
-  max-width: 350px;
-  margin-top: 20px;
+  max-width: 570px;
+  margin: 5px;
   color: var(--bg-azul-color);
   padding-left: 30px;
+  text-indent: 30px;
 }
 
 @media (max-width: 768px) {
   .hero-content h1 {
     font-size: 72px;
     line-height: 60px;
+  }
+
+  .hero {
+    height: 180vh;
   }
 }

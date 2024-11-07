@@ -110,7 +110,7 @@ function Contact() {
                     type="email"
                     aria-label="Username"
                   >
-                    endereçodoemail@bossanova.com
+                    nossacalifornia@gmail.com
                   </label>
                 </div>
                 <div className="input-group mb-3">

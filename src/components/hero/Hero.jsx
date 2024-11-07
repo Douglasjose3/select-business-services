@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import { useEffect, useState } from "react";
 import "./hero.css";
 import { Container } from "react-bootstrap";
@@ -33,10 +34,24 @@ function Hero() {
             Business <br /> Services
           </h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam a
-            eligendi in repudiandae non ut saepe accusantium eum illo minima.
-            Similique praesentium sit quidem aliquam magni, voluptatem excepturi
-            quaerat facilis?
+            Since 2002, we’ve been helping the Brazilian community stay
+            connected with their loved ones by providing fast, reliable, and
+            affordable money remittance services to Brazil. Whether you're
+            sending money for family support, business, or other personal
+            reasons, we’ve built a reputation for delivering your funds with
+            care and efficiency.
+          </p>
+          <p>
+            We understand the importance of trust and reliability when it comes
+            to your financial transactions. That's why we’ve been the go-to
+            choice for thousands of families and individuals over the years.{" "}
+          </p>
+          <p>
+            In addition to our remittance services, we’re proud to serve the
+            Brazilian community through our Brazilian Store Bossa Nova Brasil,
+            offering a variety of authentic Brazilian products. From groceries
+            to unique cultural items, we’re your one-stop shop for all things
+            Brazil.
           </p>
         </div>
         <ScrollToTopButton />
