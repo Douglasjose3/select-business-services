@@ -23,7 +23,6 @@
 
 .hero-content p {
   line-height: 19px;
-  font-weight: bold;
   max-width: 570px;
   margin: 5px;
   color: var(--bg-azul-color);
